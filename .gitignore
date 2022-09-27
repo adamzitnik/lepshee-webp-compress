@@ -2,3 +2,4 @@
 src
 compressed
 node_modules
+package-lock.json
